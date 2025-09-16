@@ -1,0 +1,15 @@
+# General
+.DS_Store
+*.log
+
+# Secrets (ALWAYS ignore)
+.env
+
+# Backend (Java/Maven example)
+/backend/target/
+/backend/build/
+
+# Frontend (Node.js example)
+/frontend/node_modules/
+/frontend/build/
+/frontend/.next/
