@@ -89,6 +89,24 @@ Make sure you have the following installed on your system:
 
 ---
 
-## Usage
+## Live Link and Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdede9af-1e10-44cb-b2a4-f47395c2c5ad" />
+** Home Page **
+<img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/0edd00f4-538c-48b2-b10a-cb38cf449af7" />
+
+
+** SignUp Page **
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/5a7f0875-7a46-4d13-8327-6899e3d1e42f" />
+
+** Login Page **
+<img width="1914" height="903" alt="image" src="https://github.com/user-attachments/assets/86e66a13-7f22-43d3-9a26-b52931170b93" />
+
+** Dashboard **
+<img width="1901" height="825" alt="image" src="https://github.com/user-attachments/assets/90e9ba30-b8ec-45d4-b0d2-aac4460f256c" />
+
+** Loading Animation **
+<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/cffc53f7-7b4c-423d-ad68-a6cbe975a75b" />
+
+
+
+
